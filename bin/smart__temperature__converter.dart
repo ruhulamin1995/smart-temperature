@@ -7,6 +7,7 @@ void main() {
 
   while (true) {
     print("\n1. Celsius to Fahrenheit");
+    print("\n1. Celsius to Fahrenheit");
     print("2. Fahrenheit to Celsius");
     print("3. Celsius to Kelvin");
     print("4. Kelvin to Celsius");
